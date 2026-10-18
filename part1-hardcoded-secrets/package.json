@@ -1,0 +1,7 @@
+{
+  "name": "part1-hardcoded-secrets",
+  "version": "1.0.0",
+  "description": "Demo: secrets hard-coded in source code (insecure on purpose)",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" }
+}
